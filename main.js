@@ -1,0 +1,6 @@
+const userName= prompt("Введите своё имя")
+const userSurname= prompt("Введите свою фамилию")
+const userAge= prompt("Введите свой возраст")
+const userAddress= prompt("Введите свой адрес")
+const userSubject= prompt("Ваш любимый предмет")
+console.log(`Name: ${userName} Surname: ${userSurname}  Age: ${userAge} Email: ${userAddress} Subject: ${userSubject}`)
